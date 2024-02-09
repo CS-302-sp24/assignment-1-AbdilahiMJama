@@ -8,6 +8,7 @@ public class DiningPhilosophers {
       chopsticks[i] = new Chopstick(i);
     for (int i = 0; i < 5; ++i) {
       philosophers[i] = new Philosopher(chopsticks[i], chopsticks[(i + 1) % 5]);
+
       philosophers[i].start();
     }
     for (int i = 0; i < 5; ++i)
