@@ -1,0 +1,88 @@
+Philosopher 0 thinks for 547 units
+Philosopher 0 thinks for 941 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 eats for 65 units
+Philosopher 0 releases left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 thinks for 779 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 eats for 103 units
+Philosopher 0 releases left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 thinks for 363 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 eats for 509 units
+Philosopher 0 wants right chopstick
+Philosopher 0 releases left chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 thinks for 124 units
+Philosopher 0 eats for 296 units
+Philosopher 0 wants right chopstick
+Philosopher 0 releases left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 thinks for 146 units
+Philosopher 0 wants left chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 eats for 10 units
+Philosopher 0 releases left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 thinks for 654 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 eats for 368 units
+Philosopher 0 releases left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 thinks for 377 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 eats for 547 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 releases left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 eats for 6 units
+Philosopher 0 thinks for 682 units
+Philosopher 0 releases left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 thinks for 762 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 eats for 683 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 releases left chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 eats for 813 units
+Philosopher 0 thinks for 586 units
+Philosopher 0 wants right chopstick
+Philosopher 0 has right chopstick
+Philosopher 0 wants left chopstick
+Philosopher 0 releases left chopstick
+Philosopher 0 releases right chopstick
+Philosopher 0 has left chopstick
+Philosopher 0 thinks for 67 units
+Philosopher 0 eats for 176 units
+Philos
